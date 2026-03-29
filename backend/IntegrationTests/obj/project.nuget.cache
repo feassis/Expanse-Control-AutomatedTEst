@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/uFl/Sl/uu8=",
+  "dgSpecHash": "RP0EXp2Usmg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\felip\\Desktop\\C# Projects\\JobApplicationTest\\ExameDesenvolvedorDeTestes\\Expanse-Control-AutomatedTEst\\backend\\IntegrationTests\\IntegrationTests.csproj",
+  "projectFilePath": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\IntegrationTests\\IntegrationTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\felip\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\felip\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",
