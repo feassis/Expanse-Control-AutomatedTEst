@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AC446BC9-810A-4E00-98AD-075D86C8A50D}|UnitTests\\UnitTests.csproj|c:\\users\\felip\\desktop\\csproj\\jobapp\\eddt\\tests\\backend\\unittests\\services\\transacaoservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC446BC9-810A-4E00-98AD-075D86C8A50D}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\services\\transacaoservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC446BC9-810A-4E00-98AD-075D86C8A50D}|UnitTests\\UnitTests.csproj|c:\\users\\felip\\desktop\\csproj\\jobapp\\eddt\\tests\\backend\\unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC446BC9-810A-4E00-98AD-075D86C8A50D}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC446BC9-810A-4E00-98AD-075D86C8A50D}|UnitTests\\UnitTests.csproj|c:\\users\\felip\\desktop\\csproj\\jobapp\\eddt\\tests\\backend\\unittests\\services\\totalservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC446BC9-810A-4E00-98AD-075D86C8A50D}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\services\\totalservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC446BC9-810A-4E00-98AD-075D86C8A50D}|UnitTests\\UnitTests.csproj|c:\\users\\felip\\desktop\\csproj\\jobapp\\eddt\\tests\\backend\\unittests\\services\\pessoaservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC446BC9-810A-4E00-98AD-075D86C8A50D}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\services\\pessoaservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AC446BC9-810A-4E00-98AD-075D86C8A50D}|UnitTests\\UnitTests.csproj|c:\\users\\felip\\desktop\\csproj\\jobapp\\eddt\\tests\\backend\\unittests\\services\\categoriasservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC446BC9-810A-4E00-98AD-075D86C8A50D}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\services\\categoriasservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AC446BC9-810A-4E00-98AD-075D86C8A50D}|UnitTests\\UnitTests.csproj|c:\\users\\felip\\desktop\\csproj\\jobapp\\eddt\\tests\\backend\\unittests\\controllers\\transacoescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC446BC9-810A-4E00-98AD-075D86C8A50D}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\controllers\\transacoescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC446BC9-810A-4E00-98AD-075D86C8A50D}|UnitTests\\UnitTests.csproj|c:\\users\\felip\\desktop\\csproj\\jobapp\\eddt\\tests\\backend\\unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC446BC9-810A-4E00-98AD-075D86C8A50D}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,41 +58,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoriasServiceTest.cs",
-              "DocumentMoniker": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\UnitTests\\Services\\CategoriasServiceTest.cs",
-              "RelativeDocumentMoniker": "UnitTests\\Services\\CategoriasServiceTest.cs",
-              "ToolTip": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\UnitTests\\Services\\CategoriasServiceTest.cs",
-              "RelativeToolTip": "UnitTests\\Services\\CategoriasServiceTest.cs",
-              "ViewState": "AgIAAIgAAAAAAAAAAAAQwJcAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T02:56:02.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UnitTests",
-              "DocumentMoniker": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\UnitTests\\UnitTests.csproj",
-              "RelativeDocumentMoniker": "UnitTests\\UnitTests.csproj",
-              "ToolTip": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\UnitTests\\UnitTests.csproj",
-              "RelativeToolTip": "UnitTests\\UnitTests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-30T02:55:11.241Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransacaoServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\UnitTests\\Services\\TransacaoServiceTest.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Services\\TransacaoServiceTest.cs",
+              "ToolTip": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\UnitTests\\Services\\TransacaoServiceTest.cs",
+              "RelativeToolTip": "UnitTests\\Services\\TransacaoServiceTest.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAuwBcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T17:17:50.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "TotalServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\UnitTests\\Services\\TotalServiceTest.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Services\\TotalServiceTest.cs",
+              "ToolTip": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\UnitTests\\Services\\TotalServiceTest.cs",
+              "RelativeToolTip": "UnitTests\\Services\\TotalServiceTest.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwFQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T17:15:22.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PessoaServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\UnitTests\\Services\\PessoaServiceTest.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Services\\PessoaServiceTest.cs",
+              "ToolTip": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\UnitTests\\Services\\PessoaServiceTest.cs",
+              "RelativeToolTip": "UnitTests\\Services\\PessoaServiceTest.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAmwOIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T17:13:07.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriasServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\UnitTests\\Services\\CategoriasServiceTest.cs",
+              "RelativeDocumentMoniker": "UnitTests\\Services\\CategoriasServiceTest.cs",
+              "ToolTip": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\UnitTests\\Services\\CategoriasServiceTest.cs",
+              "RelativeToolTip": "UnitTests\\Services\\CategoriasServiceTest.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAJcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T02:56:02.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "SmokeTests.cs",
               "DocumentMoniker": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\IntegrationTests\\SmokeTests.cs",
               "RelativeDocumentMoniker": "IntegrationTests\\SmokeTests.cs",
@@ -88,12 +126,11 @@
               "RelativeToolTip": "IntegrationTests\\SmokeTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T00:40:04.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T00:40:04.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "CustomWebApplicationFactory .cs",
               "DocumentMoniker": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\IntegrationTests\\CustomWebApplicationFactory .cs",
               "RelativeDocumentMoniker": "IntegrationTests\\CustomWebApplicationFactory .cs",
@@ -105,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "CategoriasControllerTest.cs",
               "DocumentMoniker": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\UnitTests\\Controllers\\CategoriasControllerTest.cs",
               "RelativeDocumentMoniker": "UnitTests\\Controllers\\CategoriasControllerTest.cs",
@@ -117,7 +154,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T14:33:16.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "UnitTests.csproj",
+              "DocumentMoniker": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\UnitTests\\UnitTests.csproj",
+              "RelativeDocumentMoniker": "UnitTests\\UnitTests.csproj",
+              "ToolTip": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\UnitTests\\UnitTests.csproj",
+              "RelativeToolTip": "UnitTests\\UnitTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-30T02:55:11.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "PessoasControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\UnitTests\\Controllers\\PessoasControllerTests.cs",
               "RelativeDocumentMoniker": "UnitTests\\Controllers\\PessoasControllerTests.cs",
@@ -129,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "TotaisControllerTest,cs.cs",
               "DocumentMoniker": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\UnitTests\\Controllers\\TotaisControllerTest,cs.cs",
               "RelativeDocumentMoniker": "UnitTests\\Controllers\\TotaisControllerTest,cs.cs",
@@ -141,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "TransacoesControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\UnitTests\\Controllers\\TransacoesControllerTests.cs",
               "RelativeDocumentMoniker": "UnitTests\\Controllers\\TransacoesControllerTests.cs",
@@ -150,18 +212,6 @@
               "ViewState": "AgIAAAcAAAAAAAAAAAAgwIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T14:39:17.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\UnitTests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "UnitTests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\felip\\Desktop\\CSProj\\JobApp\\EDDT\\Tests\\backend\\UnitTests\\UnitTest1.cs",
-              "RelativeToolTip": "UnitTests\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T14:33:16.936Z"
             }
           ]
         }

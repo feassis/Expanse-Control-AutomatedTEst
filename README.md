@@ -4,18 +4,45 @@ Test suite for financial system (backend + frontend).
 
 ## Como Rodar o Test Unitario
 
-### Backend
-    Vá para a pasta Tests\backend abra um terminal e rode: dotnet test
+Para rodar qualquer teste Unitário será necessário atualizar a referencia ao API original de acordo com sua hirarquia de pastas
 
+### Backend
+    Vá para a pasta Tests\backend\UnitTest abra um terminal e rode: dotnet test
+
+### Frontend
+    Lembre-se que tera de atualizar a referencia no jest.config.js r no tsconfig.json, apos isso na raiz da pasta de unit test abra o terminal e faça: npm test
+
+## Como Rodar o Test de integração
+Para rodar qualquer teste de integração será necessário atualizar a referencia ao API original de acordo com sua hirarquia de pastas
+Alem disso na classe: CustomWebApplicationFactory será necessário atualizar a raiz para apontar também para sua API
+
+OBS: Como o Program.cs não tem Uma Class Program foi necessario ancorar o Factory em alguma outra classe publica, já que não posso fazer modificações a API
+
+
+### Backend
+    Va para Tests\backend\IntegrationTest abra um terminal e rode: dotnet test
+
+## Como Rodar o Test e2e
+para rodar o teste e2e vá em sua pasta abra o terminal e rode "npx cypress open", certifiquesse tambem que o cypress.config.js esteja apontando para a sua frontend rodando
 
 ---
 
 ## Piramide de Testes
 
-### Começamos com os testes Unitários como base da piramide de tests
+Definição:
+
+A estratégia de testes deste projeto segue o conceito da Pirâmide de Testes, que organiza os testes em diferentes níveis de acordo com custo, velocidade e confiabilidade.
+
+A ideia principal é ter muitos testes rápidos na base e poucos testes mais complexos no topo, garantindo qualidade sem comprometer a performance da suíte de testes.
 
 #### Para o Backend
-    Testamos os controlles e Serviços, pois estes são os responsaveis pela logica e regras de negócio da aplicação
+    1- Criei os testes unitários para os controlles e Serviços, pois estes são os responsaveis pela logica e regras de negócio da aplicação.
+    2- Criei o teste de integração, para simular o fluxo de solicitações no backend.
+
+#### Para o Front
+    1- criei testes unitarios para os forms que são o centro do distema mas dexei tudo preparado para expandir para componentes adicionais
+    2-  para o e2e verifiquei a renderização basica de cada uma das paginas para garantir a renderização minima, e então decidi me aprofundar na de transações com o intuito de testar o fluxo de criação de tranações pois esta usa tanto o pessoas e categorias além de ser o core do sistema.
+
     
 
 ## 🐞 Bugs Encontrados
@@ -212,3 +239,14 @@ Ausência de validação de `null` para `_unitOfWork.Pessoas`.
 * Priorizar correção dos problemas de comunicação (porta, CORS e HTTPS)
 * Garantir que regras de negócio estejam centralizadas no backend
 * Adicionar testes automatizados para evitar regressões
+
+
+♿ Considerações de Acessibilidade
+
+Alguns componentes da interface podem apresentar limitações de acessibilidade, como:
+
+    1- Campos de formulário sem atributos ARIA completos (aria-invalid, aria-describedby), dificultando a leitura de erros por leitores de tela.
+    2- Elementos visuais (cores, ícones) sem alternativas textuais ou contraste insuficiente.
+    3- Navegação por teclado que pode não cobrir todos os elementos interativos.
+
+Essas limitações não impedem o uso normal, mas podem impactar usuários com necessidades especiais. Recomenda-se atenção ao adaptar o sistema para ambientes com alta exigência de acessibilidade.
